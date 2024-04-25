@@ -5,7 +5,7 @@ include_directories(
         ${PROJECT_SOURCE_DIR}
         ${PROJECT_SOURCE_DIR}/src/xnet_app
         ${PROJECT_SOURCE_DIR}/src/xnet_tiny
-        ${PROJECT_SOURCE_DIR}/../lib/xnet
+        ${PROJECT_SOURCE_DIR}/lib/xnet
 )
 
 add_executable(${PROJECT_NAME} ../lib/xnet/pcap_device.c src/app.c)
