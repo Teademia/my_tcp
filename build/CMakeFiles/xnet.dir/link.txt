@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/xnet.dir/lib/xnet/pcap_device.c.o CMakeFiles/xnet.dir/src/app.c.o -o xnet  src/xnet_tiny/libxnet_tiny.a src/xnet_app/libxnet_app.a -lpcap 

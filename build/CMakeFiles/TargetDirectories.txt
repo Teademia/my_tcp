@@ -1,9 +1,0 @@
-/home/hp/project/my_tcp/build/CMakeFiles/xnet.dir
-/home/hp/project/my_tcp/build/CMakeFiles/edit_cache.dir
-/home/hp/project/my_tcp/build/CMakeFiles/rebuild_cache.dir
-/home/hp/project/my_tcp/build/src/xnet_tiny/CMakeFiles/xnet_tiny.dir
-/home/hp/project/my_tcp/build/src/xnet_tiny/CMakeFiles/edit_cache.dir
-/home/hp/project/my_tcp/build/src/xnet_tiny/CMakeFiles/rebuild_cache.dir
-/home/hp/project/my_tcp/build/src/xnet_app/CMakeFiles/xnet_app.dir
-/home/hp/project/my_tcp/build/src/xnet_app/CMakeFiles/edit_cache.dir
-/home/hp/project/my_tcp/build/src/xnet_app/CMakeFiles/rebuild_cache.dir
