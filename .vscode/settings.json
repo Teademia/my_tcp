@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "cstdint": "c"
+        "cstdint": "c",
+        "pcap.h": "c",
+        "driver.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "ether.h": "c"
     }
 }
