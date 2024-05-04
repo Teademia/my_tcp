@@ -1,0 +1,3 @@
+/home/hp/project/my_tcp/build/CMakeFiles/my_tcp.dir
+/home/hp/project/my_tcp/build/CMakeFiles/edit_cache.dir
+/home/hp/project/my_tcp/build/CMakeFiles/rebuild_cache.dir
